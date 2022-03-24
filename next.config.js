@@ -9,7 +9,7 @@ module.exports = {
     STRIPE_SECRET_KEY:
       'sk_test_51KgfQZGI3DcWEABuHIe0cQFQNOwweV7bPW3sOwr9veAh3Cnp9b04OgRCX2GiLnrqFHzeHhXQpjkGqbdD7uLuoWUF00NY2IZ63z',
 
-    STRIPE_WEBHOOK_SECRET: '',
+    STRIPE_WEBHOOK_SECRET: 'we_1KgnLxEiuVeZxW6cTabUTPPI',
 
     CLOUDINARY_CLOUD_NAME: 'teguhris',
     CLOUDINARY_API_KEY: '372253615142774',
@@ -29,7 +29,7 @@ module.exports = {
     SMTP_MAILTRAP_FROM_EMAIL: 'tegihotel',
     SMTP_MAILTRAP_FROM_NAME: 'noreply@teguhhotel.com',
 
-    NEXTAUTH_URL: 'http://localhost:3000',
+    NEXTAUTH_URL: 'https://teguh-hotel-booking.vercel.app',
   },
   images: {
     domains: ['res.cloudinary.com'],
